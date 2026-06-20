@@ -5,7 +5,7 @@ A Node.js + Express + MongoDB backend for a "Second Brain" / Notion-style note-t
 **Group 1** | Submission deadline: 18th June 2026 | Presentation: 21st June 2026
 
 Live Demo
-**API URL**: `https://pkb-render-app.onrender.com`
+**API URL**: `https://pkb-render-app.onrender.com](https://notes-api-k7fb.onrender.com`
 
 
 ---
